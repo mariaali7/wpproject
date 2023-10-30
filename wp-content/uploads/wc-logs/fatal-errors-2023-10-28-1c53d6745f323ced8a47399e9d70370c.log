@@ -1,0 +1,8 @@
+2023-10-28T20:32:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wpproject2\wpproject2\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-forms\src\blocks\contact-form\class-contact-form-block.php on line 27
+
+2023-10-28T20:32:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wpproject2\wpproject2\wp-content\plugins\mailpoet\lib\Settings\Pages.php on line 5
+
+2023-10-28T20:32:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wpproject2\wpproject2\wp-content\plugins\woocommerce\src\Internal\Admin\Orders\Edit.php on line 98
+
+2023-10-28T20:32:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wpproject2\wpproject2\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 65
+
